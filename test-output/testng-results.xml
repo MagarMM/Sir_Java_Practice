@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-16T20:14:57 IST" name="Suite" finished-at="2024-08-16T20:16:41 IST" duration-ms="103774">
+    <groups>
+    </groups>
+    <test started-at="2024-08-16T20:14:57 IST" name="Test" finished-at="2024-08-16T20:16:41 IST" duration-ms="103774">
+      <class name="BookingTest.testBaseUtilityForStays">
+        <test-method is-config="true" signature="initializeElement()[pri:0, instance:BookingTest.testBaseUtilityForStays@544fa968]" started-at="2024-08-16T20:14:57 IST" name="initializeElement" finished-at="2024-08-16T20:15:39 IST" duration-ms="41207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeElement -->
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:BookingTest.testBaseUtilityForStays@544fa968]" started-at="2024-08-16T20:15:39 IST" name="preConditions" finished-at="2024-08-16T20:16:31 IST" duration-ms="51943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="displaySortButton()[pri:0, instance:BookingTest.testBaseUtilityForStays@544fa968]" started-at="2024-08-16T20:16:31 IST" name="displaySortButton" finished-at="2024-08-16T20:16:37 IST" duration-ms="6316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaySortButton -->
+        <test-method is-config="true" signature="closeTest()[pri:0, instance:BookingTest.testBaseUtilityForStays@544fa968]" started-at="2024-08-16T20:16:37 IST" name="closeTest" finished-at="2024-08-16T20:16:41 IST" duration-ms="4232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTest -->
+      </class> <!-- BookingTest.testBaseUtilityForStays -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
